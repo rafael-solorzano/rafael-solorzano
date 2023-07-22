@@ -9,6 +9,20 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Rafael Solorzano!
 </h1>
 
+### :scientist: | :technologist:	About Me : 
+I am a scientist, and a programmer from Inglewood, CA.
+
+
+- :telescope: I’m working as a Quality Control Technician at Waters | Wyatt Technology, and I work with High-Performance Liquid Chromatography (HPLC) systems, SEC-MALS, and FFF-MALS.
+
+- :seedling: I am a part-time computer science student, and am looking to become a stronger programmer. 
+
+- :zap: In my free time, I build small programs in C++, and I ride my bike in the Santa Barbara mountains.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rafael-solorzano-ucsb22)
+
+
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
