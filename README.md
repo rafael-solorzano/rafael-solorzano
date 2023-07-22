@@ -2,7 +2,15 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="250"/>
 </div>
 
+<div id="badges" align = "center" >
+  <a href="www.linkedin.com/in/rafael-solorzano-ucsb22">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
+  <a href = "teamrafu@gmail.com">
+    <img width="40" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" >
+  </a>
+</div> 
 
 <h1 align="center">
   
@@ -15,11 +23,10 @@ I am a scientist, and a programmer from Inglewood, CA.
 
 - :telescope: I’m working as a Quality Control Technician at Waters | Wyatt Technology, and I work with High-Performance Liquid Chromatography (HPLC) systems, SEC-MALS, and FFF-MALS.
 
-- :seedling: I am a part-time computer science student, and am looking to become a stronger programmer. 
+- :seedling: I am a part-time computer science student, and enjoy using programming to enhance my scientific learning. 
 
-- :zap: In my free time, I build small programs in C++, and I ride my bike in the Santa Barbara mountains.
+- :zap: In my free time, I build small programs in C++, and ride my bike in the Santa Barbara mountains.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rafael-solorzano-ucsb22)
 
 
   
