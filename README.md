@@ -19,7 +19,7 @@ I am a scientist, and a programmer from Inglewood, CA.
 
 - :zap: In my free time, I build small programs in C++, and I ride my bike in the Santa Barbara mountains.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rafael-solorzano-ucsb22)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rafael-solorzano-ucsb22)
 
 
   
