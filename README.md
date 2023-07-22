@@ -6,9 +6,12 @@
   <a href="www.linkedin.com/in/rafael-solorzano-ucsb22">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div> 
 
-  <a href = "teamrafu@gmail.com">
-    <img width="40" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" >
+<div id="badges" align = "center" >
+  <a>
+    <img width="20" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" >
+  teamrafu@gmail.com
   </a>
 </div> 
 
