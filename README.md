@@ -28,7 +28,7 @@ I am a scientist, and a programmer from Inglewood, CA.
 
 - :seedling: I am a part-time computer science student, and enjoy using programming to enhance my scientific learning. 
 
-- :zap: In my free time, I build small programs in C++, and ride my bike in the Santa Barbara mountains.
+- :zap: In my free time, I like to ride my bike in the Santa Barbara mountains.
 
 
 
