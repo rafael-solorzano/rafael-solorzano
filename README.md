@@ -24,7 +24,7 @@
 I am a scientist, and a programmer from Inglewood, CA.
 
 
-- :telescope: I’m working as a Quality Control Technician at Waters | Wyatt Technology, and I work with High-Performance Liquid Chromatography (HPLC) systems, SEC-MALS, and FFF-MALS.
+- :telescope: I’m working as a Quality Control Technician at Waters | Wyatt Technology, and I work with High-Performance Liquid Chromatography (HPLC) systems such as SEC-MALS, and FFF-MALS.
 
 - :seedling: I am a part-time computer science student, and enjoy using programming to enhance my scientific learning. 
 
