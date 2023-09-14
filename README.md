@@ -21,14 +21,14 @@
 </h1>
 
 ### :scientist: | :technologist:	About Me : 
-I am a scientist, and a programmer from Inglewood, CA.
+I am a Bioinformaticist from Inglewood, CA.
 
 
 - :telescope: I’m working as a Quality Control Technician at Waters | Wyatt Technology, and I work with High-Performance Liquid Chromatography (HPLC) systems such as SEC-MALS, and FFF-MALS.
 
-- :seedling: I am a part-time computer science student, and enjoy using programming to enhance my scientific learning. 
+- :seedling: I completing an A.S. in Computer Science, and am using this degree to become a better Bioinformaticist -- to  develop btoh bioinformatics software and algorithms. 
 
-- :zap: In my free time, I like to ride my bike in the Santa Barbara mountains.
+- :zap: In my free time I like to ride my bike in the Santa Barbara mountains, and relax by reading non-technical science articles to see what fun, exciting research is going on in the world! 
 
 
 
