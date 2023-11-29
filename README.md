@@ -26,7 +26,7 @@ I am a Bioinformaticist from Inglewood, CA.
 
 - :telescope: I’m working as a Quality Control Technician at Waters | Wyatt Technology, and I work with High-Performance Liquid Chromatography (HPLC) systems such as SEC-MALS, and FFF-MALS.
 
-- :seedling: I am completing an A.S. in Computer Science, and am using this degree to become a better Bioinformaticist -- to  develop both bioinformatics software and algorithms. 
+- :seedling: I am completing an A.S. in Computer Science, and am using this degree to supplement any computational deficiencies in order to succeed as a Bioinformaticist.  
 
 - :zap: In my free time I like to ride my bike in the Santa Barbara mountains, and relax by reading non-technical science articles to see what fun, exciting research is going on in the world! 
 
