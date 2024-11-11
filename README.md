@@ -23,7 +23,7 @@
 :scientist: | :technologist:	I am a Bioinformaticist from Inglewood, CA.
 
 
-- 🔬: I am a PhD student in UC Santa Barbara, Biological Engineering dept. 
+- 🔬: I am a PhD student in the UC Santa Barbara, Biological Engineering dept. 
 
 - 📖: I am completing an A.S. in Computer Science, and am using this degree to supplement any computational deficiencies in order to succeed as a Bioinformaticist.  
 
