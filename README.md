@@ -11,7 +11,7 @@
 <div id="badges" align = "center" >
   <a>
     <img width="20" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" >
-  teamrafu@gmail.com
+  rsolorzano@ucsb.edu
   </a>
 </div> 
 
@@ -23,11 +23,11 @@
 :scientist: | :technologist:	I am a Bioinformaticist from Inglewood, CA.
 
 
-- 🔬: I am a PhD student in the UC Santa Barbara, Biological Engineering dept. 
+- 🔬: I am a PhD Student in Bioengineering at UC Santa Barbara.  
 
-- 📖: I recently completed an A.S. in Computer Science, and am using this degree to supplement any computational deficiencies in order to succeed as a Bioinformaticist.  
+- 📖: I have a B.S in Biochemistry, and an A.S. in Computer Science.  
 
-- 🚴: In my free time I like to ride my bike in the Santa Barbara mountains, and relax by reading non-technical science articles to see what fun, exciting research is going on in the world! 
+- 🚴: In my free time I enjoy road cycling, drinking coffee, and cooking! 
 
 
 
