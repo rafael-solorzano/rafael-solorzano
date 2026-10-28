@@ -20,7 +20,7 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Rafael Solórzano!
 </h1>
 
-:scientist: | :technologist:	I am a Bioinformaticist from Inglewood, CA.
+:scientist: | :technologist:
 
 
 - 🔬: I am a PhD Student in Bioengineering at UC Santa Barbara.  
